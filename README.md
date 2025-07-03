@@ -12,7 +12,7 @@ Aplicación de escritorio desarrollada con [Flet](https://flet.dev) que permite 
 ## 🔧 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/conversor-monedas.git
+git clone https://github.com/machucadev/exchange-currency.git
 cd conversor-monedas
 pip install -r requirements.txt
 python main.py
