@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "7fbe88347a145d0d33fc23dd94e937fd"
+API_KEY = "your API KEY"
 
 def convertir_moneda(from_currency, to_currency, amount):
     from_currency = from_currency.upper()
